@@ -1,33 +1,53 @@
 # 👋 Hi, I'm Rahul Prajapati
 
-🎓 B.Tech Computer Science & Engineering (AI & ML) Student  
-💻 Python Developer | AI/ML Enthusiast  
+**AI/ML & Full Stack (MERN) Developer** · B.Tech CSE (AI & ML), 2027 · Indore, India  
+🟢 Open to opportunities: AI/ML Engineer · Data Analyst · Data Scientist · Software Engineer (Indore, hybrid & remote)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--prajapati--aiml-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-prajapati-aiml)
+[![GitHub](https://img.shields.io/badge/GitHub-rahul123996-181717?logo=github&logoColor=white)](https://github.com/rahul123996)
 
 ## 👨‍💻 About Me
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning.
-I have a strong interest in Python programming and building practical projects.
+I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Sushila Devi Bansal College of Engineering, Indore. I enjoy turning ideas into working products, from full-stack web apps with AI features to data analysis in Python.
 
-I have worked on projects such as a Python-based Voice Assistant, automation tools, and utility applications.
-Currently, I am seeking internship opportunities to improve my skills and gain industry exposure.
+Right now I'm building my MERN stack skills, practicing data analysis with Pandas and NumPy, and exploring Generative AI. I'm looking for roles where I can keep learning while shipping real work.
 
 ## 🛠 Skills
-- Python
-- C++
-- SQL
-- Artificial Intelligence & Machine Learning (Basics)
-- OOPS
-- Data Structures (Basic)
+- **Languages:** Python, JavaScript, C++, SQL
+- **Web (MERN):** React, Node.js, Express, MongoDB, REST APIs, JWT auth
+- **Data & AI:** Pandas, NumPy, Generative AI, LLM APIs (Groq), prompt engineering
+- **Tools:** Git/GitHub, Postman, Google Colab
+- **Core CS:** OOP, Data Structures (in progress)
 
-## 📂 Projects
-### 🔹 Voice Assistant
-Python-based voice assistant capable of executing basic voice commands.
+## 📂 Featured Projects
 
-### 🔹 Random Password Generator
-A Python tool to generate secure random passwords.
+### 🏡 [Homely Hub](https://github.com/rahul123996/Homely-Hub-)
+Airbnb-style stay booking platform with AI-generated property descriptions and an AI trip planner.  
+**Stack:** MongoDB · Express · React · Node.js · Groq LLM API  
+**My role:** database design, authentication APIs, search API, frontend integration, AI integration, Postman API testing.
 
-### 🔹 CODESOFT Internship Tasks
-Python projects completed during internship.
+### 📊 Student Performance Analysis System
+Python project using Pandas and NumPy to analyze student performance data.
 
-## 🔗 Connect with Me
-- GitHub: https://github.com/rahul123996
-- LinkedIn: (paste your LinkedIn link here)
+### 🧹 Titanic Dataset: Data Cleaning & Preprocessing
+Self-driven data analyst practice in Google Colab: data acquisition, cleaning and preprocessing with Pandas and NumPy. Next up: EDA and visualization with Matplotlib and Seaborn.
+
+### More
+- **Voice Assistant:** Python voice assistant that executes basic voice commands
+- **Random Password Generator:** Python tool for generating secure passwords
+- **CODESOFT Internship Tasks:** Python projects completed during the internship
+
+## 💼 Experience & Training
+- **Full Stack Developer (MERN) Trainee:** WebStack Academy (2026–present)
+- **MERN Stack Intern:** Emertxe (Aug–Sep 2026), completed with the HomelyHub property booking platform project
+- **Tata Group GenAI Data Analytics Job Simulation:** Forage (Nov–Dec 2025)
+- **Deloitte Australia Cyber Job Simulation:** Forage (May–Jun 2025)
+
+## 🎓 Certifications
+- Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- Career Essentials in Generative AI (Microsoft & LinkedIn)
+- Cisco Python Essentials
+- Gen AI Assessment, NASSCOM (certificate of completion from SFJ, Oct 2026)
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/rahul-prajapati-aiml](https://www.linkedin.com/in/rahul-prajapati-aiml)
+- GitHub: [github.com/rahul123996](https://github.com/rahul123996)
