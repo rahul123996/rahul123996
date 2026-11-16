@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rahul Prajapati
 
 **AI/ML & Full Stack (MERN) Developer** · B.Tech CSE (AI & ML), 2027 · Indore, India  
-🟢 Open to opportunities: AI/ML Engineer · Data Analyst · Data Scientist · Software Engineer (Indore, hybrid & remote)
+🟢 Open to opportunities: AI/ML Engineer · Data Analyst · Data Scientist · Software Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--prajapati--aiml-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-prajapati-aiml)
 [![GitHub](https://img.shields.io/badge/GitHub-rahul123996-181717?logo=github&logoColor=white)](https://github.com/rahul123996)
@@ -27,14 +27,6 @@ Airbnb-style stay booking platform with AI-generated property descriptions and a
 
 ### 📊 Student Performance Analysis System
 Python project using Pandas and NumPy to analyze student performance data.
-
-### 🧹 Titanic Dataset: Data Cleaning & Preprocessing
-Self-driven data analyst practice in Google Colab: data acquisition, cleaning and preprocessing with Pandas and NumPy. Next up: EDA and visualization with Matplotlib and Seaborn.
-
-### More
-- **Voice Assistant:** Python voice assistant that executes basic voice commands
-- **Random Password Generator:** Python tool for generating secure passwords
-- **CODESOFT Internship Tasks:** Python projects completed during the internship
 
 ## 💼 Experience & Training
 - **Full Stack Developer (MERN) Trainee:** WebStack Academy (2026–present)
